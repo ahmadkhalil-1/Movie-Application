@@ -1,3 +1,11 @@
+![image](https://github.com/ahmadkhalil-1/Movie-Application/assets/131601921/9cad6fb7-c4e0-4d50-9c5f-78ad95c64204)
+
+![image](https://github.com/ahmadkhalil-1/Movie-Application/assets/131601921/245a0e5a-62f2-442b-8cdf-2b9d428247e2)
+
+![image](https://github.com/ahmadkhalil-1/Movie-Application/assets/131601921/7dfcdf80-7059-4eae-aa51-0d223a1ca787)
+
+![image](https://github.com/ahmadkhalil-1/Movie-Application/assets/131601921/7e2ec6b7-f681-4aef-9f3e-2c1ac81a9859)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
